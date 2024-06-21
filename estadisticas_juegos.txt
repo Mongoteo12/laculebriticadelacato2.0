@@ -1,0 +1,15 @@
+Puntos: 20, Estado: 0, Tiempo: 19s, Manzanas: 2, Niveles: 0, Vidas: 3
+Puntos: 60, Estado: 0, Tiempo: 30s, Manzanas: 6, Niveles: 2, Vidas: 3
+Puntos: 150, Estado: 0, Tiempo: 65s, Manzanas: 15, Niveles: 5, Vidas: 3
+Puntos: 90, Estado: 0, Tiempo: 22s, Manzanas: 4, Niveles: 1, Vidas: 3
+Puntos: 310, Estado: 0, Tiempo: 50s, Manzanas: 11, Niveles: 3, Vidas: 3
+Puntos: 0, Estado: 0, Tiempo: 4s, Manzanas: 0, Niveles: 0, Vidas: 3
+Puntos: 180, Estado: 0, Tiempo: 58s, Manzanas: 18, Niveles: 6, Vidas: 3
+Puntos: 0, Estado: 0, Tiempo: 5s, Manzanas: 0, Niveles: 0, Vidas: 3
+Puntos: 20, Estado: 0, Tiempo: 15s, Manzanas: 2, Niveles: 0, Vidas: 3
+Puntos: 190, Estado: 0, Tiempo: 62s, Manzanas: 19, Niveles: 6, Vidas: 3
+Puntos: 70, Estado: 0, Tiempo: 27s, Manzanas: 7, Niveles: 2, Vidas: 3
+Puntos: 110, Estado: 0, Tiempo: 41s, Manzanas: 11, Niveles: 3, Vidas: 3
+Puntos: 50, Estado: 0, Tiempo: 16s, Manzanas: 5, Niveles: 1, Vidas: 3
+Puntos: 170, Estado: 0, Tiempo: 21s, Manzanas: 7, Niveles: 2, Vidas: 3
+Puntos: 130, Estado: 0, Tiempo: 26s, Manzanas: 3, Niveles: 1, Vidas: 3
